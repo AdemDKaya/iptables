@@ -8,7 +8,7 @@ This project demonstrates the working principles of the Linux `iptables` firewal
 
 A complete step-by-step demonstration of this lab is available on YouTube:
 
-**YouTube Video:** [▶ Watch on YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+**YouTube Video:** [▶ Watch on YouTube](https://www.youtube.com/watch?v=KjLm4K9XEz4)
 
 This video provides a practical walkthrough of the firewall configuration process, rule implementation, traffic filtering, and the Default Drop security policy demonstrated in this project.
 
